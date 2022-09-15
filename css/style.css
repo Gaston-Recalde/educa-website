@@ -417,6 +417,9 @@ section {
 .footer .credit span {
   color: #0eb582;
 }
+.footer .credit span a {
+  color: #0eb582;
+}
 
 @media (max-width: 1200px) {
   .header {
