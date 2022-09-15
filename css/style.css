@@ -836,4 +836,8 @@ section {
 .logo-container img {
   height: 10rem;
   pointer-events: none;
+}
+
+.logo-slider {
+  padding-bottom: 4rem;
 }/*# sourceMappingURL=style.css.map */

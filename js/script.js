@@ -108,6 +108,10 @@ var swiper = new Swiper(".reviews-slider", {
 });
 
 var swiper = new Swiper(".logo-slider", {
+  pagination: {
+    el: ".swiper-pagination",
+    clickable:true,
+  },
   loop:true,
   // grabCursor:true,
   spaceBetween: 20,
