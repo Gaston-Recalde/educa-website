@@ -130,20 +130,10 @@ var swiper = new Swiper(".logo-slider", {
   },
 });
 
-// let accordion = document.querySelectorAll('.faq .accordion-container .accordion');
-
-// accordion.forEach(acco =>{
-//   acco.onclick = () =>{
-//     accordion.forEach(dion => dion.classList.remove('active'));
-//     acco.classList.toggle('active');
-//   };
-// });
-
-// Idea nueva para mostrar las preguntas
 const acco = document.querySelectorAll('.accordion');
 acco.forEach(accordion => {
   accordion.addEventListener('click', () => {
-    accordion.classList.toggle('active');
+    accordion.classList.toggle('active')
   })
 })
 
