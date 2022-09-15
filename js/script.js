@@ -45,6 +45,10 @@ var swiper = new Swiper(".home-slider", {
 });
 
 var swiper = new Swiper(".home-courses-slider", {
+  pagination: {
+    el: ".swiper-pagination",
+    clickable:true,
+  },
   loop:true,
   // grabCursor:true,
   spaceBetween: 20,
@@ -62,6 +66,10 @@ var swiper = new Swiper(".home-courses-slider", {
 });
 
 var swiper = new Swiper(".teachers-slider", {
+  pagination: {
+    el: ".swiper-pagination",
+    clickable:true,
+  },
   loop:true,
   // grabCursor:true,
   spaceBetween: 20,
@@ -79,6 +87,10 @@ var swiper = new Swiper(".teachers-slider", {
 });
 
 var swiper = new Swiper(".reviews-slider", {
+  pagination: {
+    el: ".swiper-pagination",
+    clickable:true,
+  },
   loop:true,
   // grabCursor:true,
   spaceBetween: 20,

@@ -339,6 +339,14 @@ section {
   background: #444;
 }
 
+.home-courses-slider {
+  padding-bottom: 4rem;
+}
+
+.reviews-slider {
+  padding-bottom: 4rem;
+}
+
 .footer {
   background: #f0fdfa;
   padding-bottom: 10rem;
@@ -575,6 +583,10 @@ section {
   font-size: 1.5rem;
   line-height: 2;
   color: #777;
+}
+
+.teachers-slider {
+  padding-bottom: 4rem;
 }
 
 .reviews .slide {
