@@ -130,14 +130,23 @@ var swiper = new Swiper(".logo-slider", {
   },
 });
 
-let accordion = document.querySelectorAll('.faq .accordion-container .accordion');
+// let accordion = document.querySelectorAll('.faq .accordion-container .accordion');
 
-accordion.forEach(acco =>{
-  acco.onclick = () =>{
-    accordion.forEach(dion => dion.classList.remove('active'));
-    acco.classList.toggle('active');
-  };
-});
+// accordion.forEach(acco =>{
+//   acco.onclick = () =>{
+//     accordion.forEach(dion => dion.classList.remove('active'));
+//     acco.classList.toggle('active');
+//   };
+// });
+
+// Idea nueva para mostrar las preguntas
+const acco = document.querySelectorAll('.accordion');
+acco.forEach(accordion => {
+  accordion.addEventListener('click', () => {
+    accordion.classList.toggle('active');
+  })
+})
+
 
 document.querySelector('.load-more .btn').onclick = () =>{
   document.querySelectorAll('.courses .box-container .hide').forEach(show =>{
