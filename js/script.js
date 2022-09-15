@@ -41,12 +41,12 @@ var swiper = new Swiper(".home-slider", {
     clickable:true,
   },
   loop:true,
-  grabCursor:true,
+  // grabCursor:true,
 });
 
 var swiper = new Swiper(".home-courses-slider", {
   loop:true,
-  grabCursor:true,
+  // grabCursor:true,
   spaceBetween: 20,
   breakpoints: {
     0: {
@@ -63,7 +63,7 @@ var swiper = new Swiper(".home-courses-slider", {
 
 var swiper = new Swiper(".teachers-slider", {
   loop:true,
-  grabCursor:true,
+  // grabCursor:true,
   spaceBetween: 20,
   breakpoints: {
     0: {
@@ -80,7 +80,7 @@ var swiper = new Swiper(".teachers-slider", {
 
 var swiper = new Swiper(".reviews-slider", {
   loop:true,
-  grabCursor:true,
+  // grabCursor:true,
   spaceBetween: 20,
   breakpoints: {
     0: {
@@ -97,7 +97,7 @@ var swiper = new Swiper(".reviews-slider", {
 
 var swiper = new Swiper(".logo-slider", {
   loop:true,
-  grabCursor:true,
+  // grabCursor:true,
   spaceBetween: 20,
   breakpoints: {
     0: {
