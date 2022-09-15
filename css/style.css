@@ -44,7 +44,7 @@ section {
 .heading-link h3 {
   font-size: 4rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .heading-link p {
   font-size: 2rem;
@@ -63,7 +63,7 @@ section {
   margin-bottom: 3rem;
   font-size: 3.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 
 .btn {
@@ -99,7 +99,7 @@ section {
   margin-right: auto;
   font-size: 2.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   font-weight: bolder;
 }
 .header .logo i {
@@ -124,7 +124,7 @@ section {
   margin-right: 2rem;
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .header .navbar a:hover {
   color: #0eb582;
@@ -183,7 +183,7 @@ section {
 .account-form form h3 {
   font-size: 2.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   padding-bottom: 0.5rem;
   text-transform: uppercase;
 }
@@ -241,7 +241,7 @@ section {
 .home .slide .content h3 {
   font-size: 5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   color: #fff;
 }
 .home .slide .content p {
@@ -284,7 +284,7 @@ section {
 .subjects .box-container .box h3 {
   font-size: 1.7rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   padding: 0.5rem 0;
 }
 .subjects .box-container .box p {
@@ -312,7 +312,7 @@ section {
 .home-courses .slide .image h3 {
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .home-courses .slide .content {
   position: absolute;
@@ -325,7 +325,7 @@ section {
 .home-courses .slide .content h3 {
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   color: #fff;
 }
 .home-courses .slide .content p {
@@ -357,7 +357,7 @@ section {
 .about .content .about-title {
   font-size: 3rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .about .content p {
   font-size: 1.5rem;
@@ -385,7 +385,7 @@ section {
   padding: 0.5rem 0;
   font-size: 3rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .about .content .icons-container .icons span {
   font-size: 1.5rem;
@@ -435,7 +435,7 @@ section {
 .teachers .slide .content h3 {
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .teachers .slide .content span {
   font-size: 1.5rem;
@@ -476,7 +476,7 @@ section {
 .reviews .slide h3 {
   font-size: 2.2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   padding: 0.5rem 0;
 }
 .reviews .slide .stars {
@@ -509,7 +509,7 @@ section {
 .courses .box-container .box .image h3 {
   font-size: 1.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   position: absolute;
   top: 1rem;
   left: 1rem;
@@ -524,7 +524,7 @@ section {
 .courses .box-container .box .content h3 {
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .courses .box-container .box .content p {
   padding: 1rem 0;
@@ -543,7 +543,7 @@ section {
 .courses .box-container .box .content .icons span {
   font-size: 1.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .courses .box-container .box .content .icons span i {
   color: #0eb582;
@@ -579,7 +579,7 @@ section {
 .contact .icons-container .icons h3 {
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   padding: 0.5rem 0;
 }
 .contact .icons-container .icons p {
@@ -607,7 +607,7 @@ section {
 .contact .row form h3 {
   font-size: 2.5rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   padding-bottom: 1rem;
 }
 .contact .row form .box {
@@ -669,7 +669,7 @@ section {
 .faq .accordion-container .accordion .accordion-heading h3 {
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
 }
 .faq .accordion-container .accordion .accordion-heading i {
   font-size: 2rem;
@@ -704,7 +704,7 @@ section {
 .footer .box-container .box h3 {
   font-size: 2.2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   padding: 1rem 0;
 }
 .footer .box-container .box h3 i {
@@ -756,7 +756,7 @@ section {
   padding-top: 3rem;
   font-size: 2rem;
   text-transform: capitalize;
-  color: #444;
+  color: black;
   border-top: 0.1rem solid #0eb582;
 }
 .footer .credit span {
